@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Home Page</title>
+</head>
+<body>
+
+<header>
+    <img src="logo.png" alt="Company Logo">
+    <h1>Company Name</h1>
+</header>
+
+<main>
+    <section>
+        <h2>About Us</h2>
+        <p>Welcome to our company. We provide exceptional products and services to meet your needs. Our team is dedicated to ensuring customer satisfaction and delivering high-quality solutions.</p>
+    </section>
+
+    <section>
+        <h2>Company Details</h2>
+        <table>
+            <tr>
+                <th>Address</th>
+                <td>1234 Elm Street, Anytown, USA</td>
+            </tr>
+            <tr>
+                <th>Contact</th>
+                <td>Phone: (123) 456-7890<br>Email: info@company.com</td>
+            </tr>
+            <tr>
+                <th>Description</th>
+                <td>We specialize in innovative products and top-notch services to cater to a wide range of customers.</td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>Our Services</h2>
+        <ul>
+            <li>Service One</li>
+            <li>Service Two</li>
+            <li>Service Three</li>
+            <li>Service Four</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Introduction Audio</h2>
+        <audio controls>
+            <source src="intro.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+        </audio>
+    </section>
+
+    <section>
+        <h2>Promotional Video</h2>
+        <video controls>
+            <source src="promo.mp4" type="video/mp4">
+            Your browser does not support the video element.
+        </video>
+    </section>
+</main>
+
+<footer>
+    <p>Follow us on:</p>
+    <a href="https://facebook.com" target="_blank">Facebook</a>
+    <a href="https://twitter.com" target="_blank">Twitter</a>
+    <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+    <p>&copy; 2024 Company Name. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
